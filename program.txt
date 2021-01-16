@@ -10,5 +10,9 @@ scanf("%d",&n);
 if(n%2==0)
 printf("even number");
 else 
+<<<<<<< HEAD
+printf("not even number");
+=======
 printf("odd number from master");
+>>>>>>> 5d9658299a194dad53bfe6b565aa9fcf79f47ce2
 }
